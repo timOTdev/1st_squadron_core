@@ -8,12 +8,13 @@
 ### Timeline
 
 - 1st Expedition takeoff on 2021-08-24
-  - Pitstop 1 on 2021-08-29
-  - Pitstop 2 on [FILL ME OUT].
-  - Pitstop 3 on [FILL ME OUT].
-  - Pitstop 4 on [FILL ME OUT].
-- 1st Expedition targeted landing on 2021-9-30.
-- 1st Expedition actual landing on [FILL ME OUT].
+  - [ ] Pitstop 1 on 2021-08-29
+  - [ ] Pitstop 2 on 2021-09-05
+  - [ ] Pitstop 3 on 2021-09-12
+  - [ ] Pitstop 4 on 2021-09-19
+  - [ ] Pitstop 5 on 2021-09-26
+- 1st Expedition targeted landing on 2021-09-30
+- 1st Expedition actual landing on [FILL ME OUT]
 
 ---
 
