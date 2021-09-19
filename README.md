@@ -11,7 +11,7 @@
   - [x] Pitstop 1 on 2021-08-29
   - [x] Pitstop 2 on 2021-09-05
   - [x] Pitstop 3 on 2021-09-12
-  - [ ] Pitstop 4 on 2021-09-19
+  - [x] Pitstop 4 on 2021-09-19
   - [ ] Pitstop 5 on 2021-09-26
 - 1st Expedition targeted landing on 2021-09-30
 - 1st Expedition actual landing on [FILL ME OUT]
