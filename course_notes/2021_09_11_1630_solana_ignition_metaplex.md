@@ -2,7 +2,7 @@
 
 - Tags: #solana #ignition #blastoff #stream #solanahackathon #nft #metaplex
 
-- [NFT / Metaplex Workshop](https://www.youtube.com/watch?v=GqXu8MfdEG4)
+- [NFT / Metaplex Workshop (1:03:50)](https://www.twitch.tv/videos/1144702694)
 
 ---
 

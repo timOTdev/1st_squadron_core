@@ -2,7 +2,7 @@
 
 - Tags: #solana #ignition #stream #solanahackathon #anchor #introductiontoanchor
 
-- [How to Anchor: An introduction to the Anchor Framework](https://www.youtube.com/watch?v=FmdPAwsqJC4)
+- [How to Anchor: An introduction to the Anchor Framework (1:15:24)](https://www.twitch.tv/videos/1142817871)
 - [Serum's Anchor](https://github.com/project-serum/anchor)
 - [Cargo Expand](https://github.com/dtolnay/cargo-expand)
 
