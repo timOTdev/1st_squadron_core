@@ -2,7 +2,7 @@
 
 - Tags: #solana #ignition #blastoff #stream #solanahackathon #mangomarket
 
-- [Mango Workshop](https://www.youtube.com/watch?v=acZiCt5pSJI)
+- [Mango Workshop (1:14:48)](https://www.twitch.tv/videos/1143687434)
 
 ---
 

@@ -2,7 +2,7 @@
 
 - Tags: #solana #ignition #blastoff #stream #solanahackathon
 
-- [Ignition Blastoff Stream | Hackathon Project Ideas](https://www.youtube.com/watch?v=bu6NhNINlfQ)
+- [Ignition Blastoff Stream | Hackathon Project Ideas (47:32)](https://www.twitch.tv/videos/1137789063)
 
 ---
 
