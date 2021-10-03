@@ -36,8 +36,8 @@
 
 ### Wallet Github Links
 
-- [Ragnarok Wallet](https://github.com/timh1203/ragnarok_wallet)
-- [Test Wallet](https://github.com/mysticis/test-wallet)
-- [Solana Svelte Wallet](https://github.com/silvestrevivo/solana-svelte-wallet)
+- [Ragnarok Wallet by otik](https://github.com/timh1203/ragnarok_wallet)
+- [Test Wallet by Mysticis](https://github.com/mysticis/test-wallet)
+- [Solana Svelte Wallet by silvestrevivo](https://github.com/silvestrevivo/solana-svelte-wallet)
 
 ---
