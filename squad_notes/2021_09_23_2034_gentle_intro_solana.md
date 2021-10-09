@@ -3,13 +3,14 @@
 - Tags: #icarusnode
 
 - [Link](https://kirima.vercel.app/post/gentleintrosolana)
-- ***
+
+---
 
 ## notes
 
 - Use Ubuntu program on windows instead of WSL program.
   - Can download from Windows app store.
-  - I downloaded Ubuntu 20.04 LTS.
+  - I downloaded [Ubuntu 20.04 LTS](https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab).
 
 ### Account recovery Error
 
@@ -64,11 +65,5 @@ Signature: 5Jefbi6ZDuokvYqScYVZxx167bYXz13tApPwHXPYLYGtwaLUy4qt8qstC3oJycDpsFTr3
 
 1 SOL
 ```
-
----
-
-## navigation
-
-- [index](../index) > [icarus](node) > [2021_09_23_2034_gentle_intro_solana](2021_09_23_2034_gentle_intro_solana)
 
 ---
