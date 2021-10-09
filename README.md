@@ -48,7 +48,7 @@
 ### Wallet Github Links
 
 - Expedition 1 projects
-  - [Ragnarok Wallet by otik](https://github.com/timh1203/ragnarok_wallet)
+  - [Ragnarok Wallet by otik](https://github.com/timotdev/ragnarok_wallet)
   - [Solana Svelte Wallet by silvestrevivo](https://github.com/silvestrevivo/solana-svelte-wallet)
   - [Test Wallet by Mysticis](https://github.com/mysticis/test-wallet)
 
