@@ -18,8 +18,8 @@
 
 - 2nd Expedition takeoff on 2021-10-03
   - [x] Briefing on 2021-10-03
-  - [ ] Pitstop 1 on 2021-10-10
-  - [ ] Pitstop 2 on 2021-10-17
+  - [x] Pitstop 1 on 2021-10-10
+  - [x] Pitstop 2 on 2021-10-17 / Introductory Webcast
   - [ ] Pitstop 3 on 2021-10-24
   - [ ] Landing on 2021-10-31
 - 1st Expedition targeted landing on 2021-10-31
