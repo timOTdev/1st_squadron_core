@@ -110,4 +110,17 @@ error wraps around whole process?
 - Now to transfer, she uses a function that changes the `owner` from her address to the _escrow program address_.
 - This _escrow program address_ is also known as the _Program Derived Address_.
 
+## Program Derived Addresses (PDAs)
+
+- PDAs lets programs sign transactions and we can assign ownership of accounts into it's user-space, aka `data`.
+- `sysvars`
+  - Tells you what Solana cluster you are on.
+  - Can be accessed through accounts.
+  - Store parameters like current fee or rent cost.
+
+> As of solana-program version 1.6.5, sysvars can also be accessed without being passed into the entrypoint as an account (opens new window)(this tutorial will continue to use the old way for now, but you shouldn't!).
+
+- Accounts are charged rent depending on how much storage space they take up.
+- Accounts can also be rent-exempt if they pay upfront for a defined rate for its storage usage.
+
 ---
