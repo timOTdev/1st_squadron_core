@@ -20,19 +20,19 @@
   - [x] Briefing on 2021-10-03
   - [x] Pitstop 1 on 2021-10-10
   - [x] Pitstop 2 on 2021-10-17 / Introductory Webcast
-  - [ ] Pitstop 3 on 2021-10-24
+  - [x] Pitstop 3 on 2021-10-24
   - [ ] Landing on 2021-10-31
-- 1st Expedition targeted landing on 2021-10-31
-- 1st Expedition actual landing on [TO BE COMPLETED]
+- 2nd Expedition targeted landing on 2021-10-31
+- 2nd Expedition actual landing on [TO BE COMPLETED]
 
 ---
 
 ### Projects
 
-| Expedition | Title                                                                                                                                            | Status | Additional Notes     |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------ | -------------------- |
-| 1st        | [DeFi Wallet](https://github.com/icarus-initiative/icarus_initiative/blob/main/1st_expedition_wallet_guidelines.md)                              | done   | Each pilot makes own |
-| 2nd        | [Solana Program (Smart Contract)](https://github.com/icarus-initiative/icarus_initiative/blob/main/2nd_expedition_smart_contracts_guidelines.md) | open   | Each pilot makes own |
+| Expedition | Title                                                                                                                                                   | Status | Additional Notes     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------------- |
+| 1st        | [DeFi Wallet](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/1st_expedition_wallet_guidelines.md)                              | done   | Each pilot makes own |
+| 2nd        | [Solana Program (Smart Contract)](https://github.com/icarus-initiative/icarus_initiative/blob/main/guides/2nd_expedition_smart_contracts_guidelines.md) | open   | Each pilot makes own |
 
 ---
 
