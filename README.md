@@ -21,7 +21,9 @@
   - [x] Pitstop 1 on 2021-10-10
   - [x] Pitstop 2 on 2021-10-17 / Introductory Webcast
   - [x] Pitstop 3 on 2021-10-24
-  - [ ] Landing on 2021-10-31
+  - [x] Pitstop 4 on 2021-10-31
+  - [x] Pitstop 5 on 2021-11-07
+  - [ ] Pitstop 6 on 2021-11-14
 - 2nd Expedition targeted landing on 2021-10-31
 - 2nd Expedition actual landing on [TO BE COMPLETED]
 
