@@ -1,4 +1,6 @@
-# 1st Squadron
+# 0171_squadron_one_core
+
+## 1st Squadron
 
 - This is home to the 1st squad that's a joint of the EMEA and NA squadrons.
 - The [Main Org Repository](https://github.com/icarus-initiative/icarus_initiative) has readme, expeditions, squadrons, and resources.
